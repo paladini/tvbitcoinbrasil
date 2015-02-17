@@ -1,0 +1,408 @@
+1
+00:00:03,476 --> 00:00:05,280
+O Bitcoin e a História do Dinheiro
+
+2
+00:00:07,319 --> 00:00:09,870
+Talvez você já tenha ouvido falar em Bitcoin.
+
+3
+00:00:09,870 --> 00:00:13,830
+Mas o que é o Bitcoin?
+Por que ele é tão importante?
+
+4
+00:00:13,830 --> 00:00:15,100
+E por que você deveria se importar?
+
+5
+00:00:16,100 --> 00:00:20,400
+Bem, esta talvez seja a melhor
+forma de dinheiro que o mundo já viu,
+
+6
+00:00:20,500 --> 00:00:22,360
+é um dinheiro digital para uma era digital
+
+7
+00:00:22,360 --> 00:00:25,840
+e é mais escasso, facilmente divisível,
+facilmente transportável,
+
+8
+00:00:25,840 --> 00:00:29,880
+facilmente verificável e a forma mais reconhecível
+de dinheiro na história.
+
+9
+00:00:33,100 --> 00:00:34,320
+Como nós sabemos disso?
+
+10
+00:00:35,500 --> 00:00:37,900
+Vamos dar uma olhada na evolução
+do dinheiro e descobrir.
+
+11
+00:00:38,700 --> 00:00:42,510
+Um dia, há 25 mil anos atrás, um caçador matou um mamute
+
+12
+00:00:42,510 --> 00:00:45,700
+e todo mundo dessa vila queria
+um pouco de carne.
+
+13
+00:00:45,700 --> 00:00:47,640
+Quando ele começou a dar a carne para os aldeões,
+
+14
+00:00:47,640 --> 00:00:50,979
+ele teve que memorizar para quem ele deu a carne
+e quanto de carne foi dado para essa pessoa.
+
+15
+00:00:50,980 --> 00:00:53,740
+Por milhares de anos foi assim
+que as pessoas faziam comércio,
+
+16
+00:00:53,740 --> 00:00:56,680
+Como não existia um registro para dizer quem possuía o que,
+
+17
+00:00:56,680 --> 00:00:59,120
+todo mundo foi forçado a manter o controle de suas próprias dívidas
+
+18
+00:00:59,120 --> 00:01:01,820
+Mas e se alguém pudesse apresentar
+uma forma de registro
+
+19
+00:01:01,820 --> 00:01:05,200
+que mantinha gravado quem tinha o que
+e qual a quantidade que cada indivíduo possuia?
+
+20
+00:01:07,000 --> 00:01:08,840
+Dinheiro
+
+21
+00:01:09,600 --> 00:01:11,370
+"A partir de agora, se você quiser carne
+
+22
+00:01:11,370 --> 00:01:14,530
+você precisará me dar pedras como uma forma
+de eu registrar o seu débito."
+
+23
+00:01:14,670 --> 00:01:18,060
+Este foi o nascimento da moeda, e ela surgiu para
+
+24
+00:01:18,060 --> 00:01:21,410
+manter o registro de débitos,
+não para servir como meio de troca
+
+25
+00:01:21,410 --> 00:01:24,520
+Essa tecnologia teve tanto sucesso
+que em pouco tempo
+
+26
+00:01:24,520 --> 00:01:26,600
+todo mundo começou a
+usar esse sistema de registros
+
+27
+00:01:26,600 --> 00:01:29,900
+porque isso melhorou muito a maneira de se
+manter atualizado sobre suas dívidas.
+
+28
+00:01:29,900 --> 00:01:34,620
+Com o passar do tempo vilas distantes ficaram sabendo
+e queriam participar dessas trocas.
+
+29
+00:01:34,620 --> 00:01:38,120
+Infelizmente existia um problema que impedia isso:
+
+30
+00:01:38,130 --> 00:01:42,690
+eles precisavam de um registro universal, algo
+que podia servir como uma forma universal de dinheiro
+
+31
+00:01:42,800 --> 00:01:46,250
+então as pessoas poderiam interagir com outras
+pessoas fora de suas comunidades.
+
+32
+00:01:46,250 --> 00:01:48,200
+Mas eles não podiam utilizar qualquer coisa.
+
+33
+00:01:48,200 --> 00:01:51,650
+Para estabelecer um sistema que funcionaria em larga escala
+
+34
+00:01:51,650 --> 00:01:53,900
+eles precisavam de algo que era universalmente escasso
+
+35
+00:01:53,900 --> 00:01:59,900
+divisível, transportável, durável,
+reconhecível e fungível.
+
+36
+00:02:02,300 --> 00:02:05,300
+Ouro
+
+37
+00:02:06,900 --> 00:02:10,690
+O que falar sobre o ouro?
+O ouro é quase perfeito como dinheiro.
+
+38
+00:02:10,690 --> 00:02:15,040
+Há cerca de 5 mil anos atrás as pessoas
+começaram a criar uma ideia para o ouro
+
+39
+00:02:15,040 --> 00:02:17,500
+que foi passada de geração para geração.
+
+40
+00:02:17,700 --> 00:02:21,850
+Uma ideia que dizia que a moeda tinha algum
+tipo de valor intrínseco
+
+41
+00:02:21,850 --> 00:02:26,040
+Mas a verdade é que, deixando de lado a função
+do ouro como um registro universal,
+
+42
+00:02:26,040 --> 00:02:28,500
+o ouro não tem nenhum valor intrínseco.
+
+43
+00:02:28,500 --> 00:02:33,680
+Essa ideia continua até hoje e é por isso que
+as pessoas guardam ouro,
+
+44
+00:02:33,680 --> 00:02:37,500
+especulam nele e enfeitam-se com ele.
+
+45
+00:02:39,500 --> 00:02:41,500
+Bancos e cartões de crédito
+
+46
+00:02:44,240 --> 00:02:47,340
+O ouro nos serviu bem como moeda,
+mas por toda a história
+
+47
+00:02:47,340 --> 00:02:51,800
+as pessoas tem procurado utilizar a tecnologia
+para melhorar o nosso sistema econômico.
+
+48
+00:02:51,800 --> 00:02:55,220
+Então as pessoas tentaram melhorar o ouro
+
+49
+00:02:55,220 --> 00:02:57,900
+e logo em seguida os bancos surgiram.
+
+50
+00:02:57,900 --> 00:03:03,830
+Por uma pequena taxa os bancos armazenavam
+o ouro em cofres e circulavam contas de papel em troca.
+
+51
+00:03:03,830 --> 00:03:07,560
+Cerca de 40 anos atrás nós vimos
+outro desenvolvimento do dinheiro
+
+52
+00:03:07,560 --> 00:03:10,799
+quando começamos a usar
+cartões de crédito e débito.
+
+53
+00:03:10,799 --> 00:03:14,599
+Assim como os avanços anteriores,
+esses avanços surgiram
+
+54
+00:03:14,600 --> 00:03:18,240
+como uma tecnologia para
+melhorar nosso sistema financeiro.
+
+55
+00:03:18,240 --> 00:03:21,240
+Mas nos últimos quarenta anos
+muitas coisas aconteceram.
+
+56
+00:03:21,240 --> 00:03:23,040
+Mesmo que tenhamos visto a ascensão da Internet
+
+57
+00:03:23,040 --> 00:03:27,299
+e a revolução da informação, nossa sistema
+monetário não refletiu essas mudanças
+
+58
+00:03:27,299 --> 00:03:29,900
+e continuou preso no passado.
+
+59
+00:03:31,900 --> 00:03:34,020
+Bitcoin
+
+60
+00:03:36,459 --> 00:03:40,290
+Conheça o Bitcoin - a primeira forma de dinheiro realmente digital.
+
+61
+00:03:40,290 --> 00:03:44,120
+O Bitcoin foi desenvolvido para a
+Era da Informação e soluciona muitas das
+
+62
+00:03:44,120 --> 00:03:46,800
+desvantagens do dinheiro físico e eletrônico.
+
+63
+00:03:47,000 --> 00:03:50,800
+O Bitcoin é o primeiro recurso digital escasso a existir.
+
+64
+00:03:50,800 --> 00:03:54,700
+Por definição, nunca haverá
+mais de 21 milhões de bitcoins.
+
+65
+00:03:54,700 --> 00:03:59,489
+O Bitcoin é divisível - um bitcoin é feito de
+um milhão de bits.
+
+66
+00:03:59,489 --> 00:04:03,180
+O Bitcoin é versátil - você pode enviar bitcoin por email,
+
+67
+00:04:03,180 --> 00:04:06,700
+mensagem de texto ou mesmo papel,
+de graça e no mesmo instante.
+
+68
+00:04:06,700 --> 00:04:12,260
+O Bitcoin é verificável - ele utiliza criptografia
+avançada e não pode ser falsificado.
+
+69
+00:04:12,260 --> 00:04:16,739
+O Bitcoin é global - assim como a Internet,
+o bitcoin é descentralizado.
+
+70
+00:04:16,739 --> 00:04:19,200
+Ele não é controlado por nenhuma pessoa
+e por nenhum país do mundo.
+
+71
+00:04:19,200 --> 00:04:24,210
+O Bitcoin é open source - ele não tem um dono,
+todos nós somos os donos dele.
+
+72
+00:04:24,900 --> 00:04:30,120
+Existe um mito difundido que diz que o dinheiro
+existe porque o governo cria e suporta ele.
+
+73
+00:04:30,120 --> 00:04:32,240
+Mas como temos visto ao longo da história,
+
+74
+00:04:32,240 --> 00:04:35,120
+o dinheiro existe porque ele
+serve como uma necessidade social básica.
+
+75
+00:04:35,130 --> 00:04:39,800
+Por mais de 25 mil anos nós utilizamos
+os últimos avanços da tecnologia
+
+76
+00:04:39,930 --> 00:04:43,020
+para melhorar o nosso sistema.
+E mesmo que o Bitcoin,
+
+77
+00:04:43,020 --> 00:04:46,680
+os cartões de crédito e as contas de papel sejam muito
+diferentes das pedras usadas como
+
+78
+00:04:46,680 --> 00:04:48,500
+dinheiro há 25 mil anos atrás,
+
+79
+00:04:48,500 --> 00:04:52,599
+o dinheiro de hoje serve para o mesmo propósito que
+o dinheiro de milhares de anos atrás.
+
+80
+00:04:52,599 --> 00:04:57,110
+É um registro que é usado como uma reserva de valor,
+como uma forma de troca
+
+81
+00:04:57,110 --> 00:04:59,200
+e como uma unidade de conta.
+
+82
+00:04:59,500 --> 00:05:01,440
+O Bitcoin pode ser o mais importante
+
+83
+00:05:01,440 --> 00:05:03,400
+experimento social em existência.
+
+84
+00:05:03,400 --> 00:05:07,599
+Pelas próximas décadas talvez sejamos
+testemunhas de uma transformação fenomenal
+
+85
+00:05:07,599 --> 00:05:10,800
+onde nós poderemos abandonar o padrão
+do Ouro após 5 mil anos
+
+86
+00:05:10,800 --> 00:05:13,000
+e subtituí-lo por Bitcoin.
+
+87
+00:05:13,000 --> 00:05:14,050
+Se isso acontecer,
+
+88
+00:05:14,050 --> 00:05:17,789
+isso pode ser a maior transferência de riqueza
+na história da civilização
+
+89
+00:05:17,789 --> 00:05:21,909
+e o maior avanço na democratização
+e acesso do dinheiro que já existiu em toda a história.
+

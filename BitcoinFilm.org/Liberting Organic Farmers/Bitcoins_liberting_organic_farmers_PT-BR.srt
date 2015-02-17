@@ -1,0 +1,360 @@
+1
+00:00:02,260 --> 00:00:05,085
+BitcoinFilm.org
+apresenta:
+
+2
+00:00:05,363 --> 00:00:09,963
+Bitcoins:
+libertando agricultores orgânicos
+
+3
+00:00:10,700 --> 00:00:15,360
+Na Argentina agricultores orgânicos
+precisam se esforçar muito para vender seus produtos.
+
+4
+00:00:15,497 --> 00:00:19,297
+Mas alguns fazendeiros
+encontraram uma alternativa.
+
+5
+00:00:19,340 --> 00:00:23,276
+Usando o Bitcoin eles se estabeleceram com sucesso na Internet 
+
+6
+00:00:23,415 --> 00:00:28,124
+onde eles vendem seus vegetais
+diretamente ao consumidor.
+
+7
+00:00:28,374 --> 00:00:33,094
+Sem taxas ou intermediários.
+
+8
+00:00:36,000 --> 00:00:38,821
+Meu nome é Santiago.
+Sou de Tierra Buena.
+
+9
+00:00:39,172 --> 00:00:42,790
+Uma empresa que comercializa
+
+10
+00:00:43,040 --> 00:00:47,106
+produtos orgânicos, verduras, frangos,
+conservas.
+
+11
+00:00:48,000 --> 00:00:52,180
+Produzidos por pequenos
+produtores familiares agroecológicos
+
+12
+00:00:52,306 --> 00:00:55,426
+Alguns não tão pequenos,
+associações...
+
+13
+00:00:55,520 --> 00:00:57,893
+Conheço Santiago já há alguns anos.
+
+14
+00:00:58,143 --> 00:01:01,203
+Nos tornamos amigos quando
+aluguei um apartamento dele.
+
+15
+00:01:01,300 --> 00:01:07,578
+E alguns meses atrás ele me disse que
+estava preparando seu negócio para
+
+16
+00:01:07,828 --> 00:01:11,128
+vender vegetais orgânicos
+na região de Buenos Aires.
+
+17
+00:01:11,239 --> 00:01:16,859
+E não venderia apenas sua produção
+mas também produtos de outros.
+
+18
+00:01:16,959 --> 00:01:19,739
+Pessoalmente, proponho que
+
+19
+00:01:20,030 --> 00:01:23,870
+a agricultura sirva para viver.
+
+20
+00:01:24,002 --> 00:01:28,042
+Santiago me disse que gostaria de
+aumentar sua clientela.
+
+21
+00:01:28,098 --> 00:01:31,598
+Expandir seu negócio.
+E não sabia como.
+
+22
+00:01:31,677 --> 00:01:35,437
+E como sabia que trabalho com tecnologia
+talvez eu pudesse ajudar.
+
+23
+00:01:35,599 --> 00:01:36,519
+Para Terra Buena,
+
+24
+00:01:36,678 --> 00:01:41,111
+aceitar pagamentos online, via paypal ou
+cartões de crédito, seria um problema.
+
+25
+00:01:41,361 --> 00:01:45,694
+Porque eles precisam do dinheiro
+de imediato para pagar seus custos.
+
+26
+00:01:45,944 --> 00:01:49,400
+E as tarifas são muito altas
+pelo que podem pagar.
+
+27
+00:01:49,650 --> 00:01:52,293
+Além disso não estavam
+preparados para a burocracia.
+
+28
+00:01:52,543 --> 00:01:55,883
+Então precisavam
+de alguém para cuidar disso.
+
+29
+00:01:56,050 --> 00:02:00,610
+Pensei que usando Bitcoin
+eu poderia resolver todo o problema.
+
+30
+00:02:00,749 --> 00:02:04,040
+Como horteiros ou pequenos agricultores
+
+31
+00:02:04,236 --> 00:02:08,556
+às vezes não nos é dado
+o acesso a crédito
+
+32
+00:02:08,620 --> 00:02:10,980
+ou poder aceitar cartão.
+
+33
+00:02:11,039 --> 00:02:14,819
+Vi uma oportunidade para trazer
+o Bitcoin para um ecossistema
+
+34
+00:02:14,942 --> 00:02:16,982
+onde ele ainda era desconhecido.
+
+35
+00:02:17,098 --> 00:02:19,565
+Tal como a
+comunidade de produtores orgânicos.
+
+36
+00:02:19,815 --> 00:02:23,966
+Descobrimos que o Bitcoin
+seria o jeito mais fácil
+
+37
+00:02:24,216 --> 00:02:26,676
+e livre de comissões que tínhamos.
+
+38
+00:02:26,882 --> 00:02:30,258
+Ele entendeu de imediato
+do que se tratava o Bitcoin.
+
+39
+00:02:30,473 --> 00:02:34,342
+Se deu conta que iria
+resolver alguns de seus problemas
+
+40
+00:02:34,941 --> 00:02:36,953
+Problemas que não permitiriam
+
+41
+00:02:37,203 --> 00:02:40,434
+de empresas como a dele
+no cenário atual.
+
+42
+00:02:41,284 --> 00:02:46,694
+Mais fácil que usar cartões de crédito
+e permancendo na informalidade.
+
+43
+00:02:46,844 --> 00:02:49,472
+Então eu disse a ele que poderia
+
+44
+00:02:49,550 --> 00:02:53,869
+configurar uma loja virtual
+e ele receberia pagamentos via Bitcoin.
+
+45
+00:02:54,119 --> 00:02:55,826
+E começamos a trabalhar nisso.
+
+46
+00:02:56,076 --> 00:02:58,266
+E após uma semana tínhamos uma loja.
+
+47
+00:02:58,334 --> 00:03:00,794
+Oferecendo verduras online.
+
+48
+00:03:00,924 --> 00:03:03,184
+A loja resolve vários problemas.
+
+49
+00:03:03,321 --> 00:03:05,260
+Não só ao receber pagamentos
+
+50
+00:03:05,310 --> 00:03:10,630
+mas ao aceitar e acompanhar
+os detalhes dos pedidos.
+
+51
+00:03:10,794 --> 00:03:14,914
+Na minha opinião,
+se trata de um meio de pagamento
+
+52
+00:03:15,828 --> 00:03:19,068
+muito parecido com cartão crédito.
+
+53
+00:03:19,225 --> 00:03:24,727
+Mas com a vantagem de não ter um
+intermédiario como os bancos.
+
+54
+00:03:24,977 --> 00:03:28,597
+E ser muito mais fácil de usar.
+
+55
+00:03:28,734 --> 00:03:32,151
+Embora eles não estejam usando o Bitcoin
+diretamente, e talvez nem saibam sobre
+
+56
+00:03:32,401 --> 00:03:37,016
+Outros fazendeiros da comunidade
+Tierra Buena se beneficiam dele.
+
+57
+00:03:37,266 --> 00:03:39,984
+Tierra Buena é a primeira
+
+58
+00:03:40,588 --> 00:03:44,973
+empresa argentina,
+talvez do mundo
+
+59
+00:03:45,759 --> 00:03:49,381
+que vende produtos orgânicos
+
+60
+00:03:49,604 --> 00:03:53,419
+verduras, méis,
+e esse tipo de coisa, por bitcoins.
+
+61
+00:03:53,669 --> 00:03:56,789
+Acredito que o Bitcoin
+empodera pequenos produtores
+
+62
+00:03:56,909 --> 00:03:59,422
+no sentido de se organizar
+
+63
+00:03:59,672 --> 00:04:03,232
+e vender diretamente ao consumidor
+sem intermediários.
+
+64
+00:04:03,428 --> 00:04:08,228
+Talvez seja a ferramenta social
+mais importante que descobrimos.
+
+65
+00:04:08,412 --> 00:04:14,652
+Porque nos permite trabalhar e cobrar
+de uma maneira totalmente desregulada.
+
+66
+00:04:14,797 --> 00:04:19,323
+Somos livres para plantar
+nossas próprias sementes
+
+67
+00:04:19,573 --> 00:04:23,668
+Sem bancar a marca ou patente
+de multinacional para produzir.
+
+68
+00:04:23,918 --> 00:04:24,958
+Nem pedir permissão a ninguém
+
+69
+00:04:25,008 --> 00:04:30,202
+Muito menos pedir permissão sobre
+o que fazer com nosso dinheiro.
+
+70
+00:04:38,680 --> 00:04:43,800
+Percebi algo interessante trabalhando
+com Santiago e outros em Tierra Buena
+
+71
+00:04:43,883 --> 00:04:47,523
+como a sua estrutura é descentralizada
+
+72
+00:04:48,211 --> 00:04:54,991
+notei semelhanças entre isso e a
+origem distribuída do Bitcoin também.
+
+73
+00:04:55,107 --> 00:05:00,789
+Creio que a opção pela agricultura
+orgânica, agroecológica
+
+74
+00:05:01,039 --> 00:05:04,819
+nos faz trabalhar em algo
+que não seja tóxico
+
+75
+00:05:04,880 --> 00:05:07,940
+nem para nosso ambiente,
+nem pro consumidor.
+
+76
+00:05:08,078 --> 00:05:10,278
+Produtos saudáveis
+em todos os sentidos.
+
+77
+00:05:11,980 --> 00:05:33,000
+Traduzido por: Rodrigo Ribeiro
+Revisado por: Fernando Paladini
+

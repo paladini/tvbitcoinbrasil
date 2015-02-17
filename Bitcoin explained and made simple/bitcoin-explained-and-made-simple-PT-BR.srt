@@ -1,0 +1,229 @@
+1
+00:00:08,818 --> 00:00:12,255
+Simplificando o Bitcoin
+
+2
+00:00:14,783 --> 00:00:16,794
+Bitcoin é uma moeda digital
+
+3
+00:00:16,869 --> 00:00:20,298
+que tenta resolver os problemas
+que enfrentamos ao fazer compras online.
+
+4
+00:00:20,941 --> 00:00:23,928
+Talvez você pense
+que o sistema atual funcione bem.
+
+5
+00:00:24,462 --> 00:00:28,111
+Mas tudo que se compra hoje passa por
+um banco ou operadora de cartão
+
+6
+00:00:28,002 --> 00:00:29,899
+que embolsam
+uma fatia de cada pagamento
+
+7
+00:00:30,197 --> 00:00:33,498
+e dependem da nossa confiança
+para lidar com nosso dinheiro.
+
+8
+00:00:33,662 --> 00:00:36,297
+Depois de um tempo
+os pagamentos começam a acumular
+
+9
+00:00:36,431 --> 00:00:38,304
+além disso há o problema de segurança
+
+10
+00:00:38,403 --> 00:00:40,487
+precisamos confiar às empresas
+a privacidade de nossos dados pessoais
+
+11
+00:00:41,565 --> 00:00:43,261
+Vários quebraram a cabeça
+
+12
+00:00:43,056 --> 00:00:45,589
+em busca de um meio de pagamnto
+sem o tal intermediário.
+
+13
+00:00:46,188 --> 00:00:47,687
+E ainda há outro problema:
+
+14
+00:00:47,896 --> 00:00:48,905
+Como provar que você pagou por algo
+
+15
+00:00:51,006 --> 00:00:55,709
+ou que você realmente tem o dinheiro
+sem precisar que alguém seja o fiador?
+
+16
+00:00:56,117 --> 00:01:00,160
+Um problema sério que tem até nome:
+Problema do gasto duplo
+
+17
+00:01:03,293 --> 00:01:07,000
+Eis que, em 2008
+uma solução foi apresentada
+
+18
+00:01:07,012 --> 00:01:10,966
+por um programador
+de pseudônimo Satoshi Nakamoto
+
+19
+00:01:12,224 --> 00:01:15,281
+Nakamoto publicou um artigo
+num movimentado blog de criptografia
+
+20
+00:01:16,038 --> 00:01:19,905
+propondo um meio de pagamento
+a resolver todos os problemas conhecidos
+
+21
+00:01:21,375 --> 00:01:24,256
+Ao invés dos bancos
+e operadoras de cartões
+
+22
+00:01:24,439 --> 00:01:27,087
+centralizarem em seus computadores
+o registro das transações
+
+23
+00:01:27,674 --> 00:01:32,225
+propôs que todo mundo fizesse o registro
+de todas as transações simultâneamente.
+
+24
+00:01:32,825 --> 00:01:38,301
+E por isso qualquer tentativa de fraude
+seria detectada e o pagamento rejeitado.
+
+25
+00:01:39,007 --> 00:01:44,129
+Nenhum usuário, governo, ou banco
+pode ditar taxas em um pagamento
+
+26
+00:01:44,216 --> 00:01:46,125
+ou controlar a circulação da moeda.
+
+27
+00:01:47,243 --> 00:01:50,739
+Em suma, um meio de pagamento simples
+mais rápido e mais barato
+
+28
+00:01:50,951 --> 00:01:52,546
+inclusive em remessas internacionais!
+
+29
+00:01:54,525 --> 00:01:55,884
+Isso é o Bitcoin.
+
+30
+00:01:56,003 --> 00:01:58,809
+E já começou a
+mudar a vida das pessoas.
+
+31
+00:01:58,098 --> 00:02:01,190
+Pouco depois de ser anunciado
+já era usado no comércio de mercadorias.
+
+32
+00:02:03,068 --> 00:02:07,066
+Embora às vezes
+negociantes um pouco controversos.
+
+33
+00:02:08,613 --> 00:02:10,784
+Mas nem tudo é fora da lei.
+
+34
+00:02:11,073 --> 00:02:13,025
+Alguns sites de compras já aceitam.
+
+35
+00:02:13,586 --> 00:02:18,288
+Você pode beber um chope em Londres
+e até pagar a matrícula da universidade.
+
+36
+00:02:24,036 --> 00:02:26,623
+Como você pode ter escutado:
+existem problemas.
+
+37
+00:02:27,016 --> 00:02:29,540
+Enquanto alguns se beneficiam
+por terem se envolvido mais cedo
+
+38
+00:02:29,684 --> 00:02:33,010
+outros se dão mal
+nesse mercado tão novo e volátil
+
+39
+00:02:33,573 --> 00:02:36,945
+e novos negócios estão
+se apoderando de milhares de bitcoins.
+
+40
+00:02:36,998 --> 00:02:40,602
+Como foi projetado para ter uma
+quantia limitada de moedas em circulação
+
+41
+00:02:40,078 --> 00:02:42,757
+com o passar do tempo
+isso pode causar mais problemas.
+
+42
+00:02:43,702 --> 00:02:45,851
+Há muita incerteza
+em relação ao Bitcoin.
+
+43
+00:02:46,522 --> 00:02:49,280
+Algumas pessoas acham de verdade
+que é o futuro.
+
+44
+00:02:49,807 --> 00:02:52,941
+Outras temem
+que ele possa destruir a economia.
+
+45
+00:02:53,879 --> 00:02:55,937
+De ambos os lados
+várias pessoas concordam
+
+46
+00:02:56,125 --> 00:03:00,498
+que se pudermos fazer funcionar
+o Bitcoin ou algo parecido
+
+47
+00:03:01,343 --> 00:03:06,310
+se pudermos confiar numa moeda digital
+sem a presença de um intermediário
+
+48
+00:03:07,029 --> 00:03:11,356
+então podemos mudar para melhor
+a maneira como funciona nossa economia.
+
