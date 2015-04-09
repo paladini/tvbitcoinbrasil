@@ -1,0 +1,88 @@
+1
+00:00:02,033 --> 00:00:05,233
+Pergunta: por que bitcoins não podem ser falsificados?
+
+2
+00:00:05,319 --> 00:00:09,399
+Os bitcoins existem online, mas não são um arquivo e não podem ser copiados.
+
+3
+00:00:09,760 --> 00:00:10,818
+Então o que é Bitcoin?
+
+4
+00:00:11,800 --> 00:00:14,060
+Bitcoins existem apenas como valores em um Registro (também chamado de livro-razão);
+
+5
+00:00:14,063 --> 00:00:16,643
+Mas este não é um livro de contabilidade comum.
+
+6
+00:00:16,680 --> 00:00:21,620
+Imagine um grande livro de registro contendo os valores e a história dos bitcoins de todo mundo.
+
+7
+00:00:21,680 --> 00:00:26,032
+Todo mundo que utiliza o programa Bitcoin, seja aonde for, tem uma cópia desse Registro.
+
+8
+00:00:26,260 --> 00:00:27,800
+Para falsificar bitcoins,
+
+9
+00:00:28,009 --> 00:00:31,928
+para por exemplo gastar 5 bitcoins quando você tem apenas 1,
+
+10
+00:00:32,009 --> 00:00:34,669
+você precisará modificar o valor do seu bitcoin no 
+
+11
+00:00:34,840 --> 00:00:36,980
+Registro global, que todo mundo tem uma cópia.
+
+12
+00:00:37,299 --> 00:00:41,076
+O problema é que mesmo que você possa invadir alguns computadores para mudar
+
+13
+00:00:41,340 --> 00:00:42,860
+a quantidade de bitcoins que você tem,
+
+14
+00:00:43,046 --> 00:00:45,094
+ainda existirão milhares de computadores 
+
+15
+00:00:45,094 --> 00:00:50,514
+com uma cópia do verdadeiro Registro mostrando que você tem apenas 1 bitcoin, e não 5.
+
+16
+00:00:51,004 --> 00:00:52,833
+Então, para gastar os seus bitcoins
+
+17
+00:00:52,869 --> 00:00:55,096
+a maioria dos Registros precisa concordar com o seu valor.
+
+18
+00:00:55,800 --> 00:00:58,876
+Como ninguém consegue invadir tantos computadores ao mesmo tempo,
+
+19
+00:00:59,100 --> 00:01:00,840
+o bitcoin não pode ser falsificado,
+
+20
+00:01:01,005 --> 00:01:05,085
+e sua tentativa de gastar bitcoins que você não possui foi bloqueada instantaneamente.
+
+21
+00:01:06,510 --> 00:01:12,250
+Traduzido por Fernando Paladini. TV Bitcoin Brasil.
+
+22
+00:01:13,160 --> 00:01:18,840
+Acesse o site do criador do vídeo: http://bitcoinconcepts.net
+
