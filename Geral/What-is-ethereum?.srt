@@ -1,0 +1,664 @@
+1
+00:00:14,720 --> 00:00:18,580
+O que é Ethereum?
+
+2
+00:00:21,020 --> 00:00:24,800
+Quem é você?
+
+3
+00:00:25,089 --> 00:00:28,369
+Meu nome é Stephan Tual, sou o Diretor de Comunicação do Ethereum.
+
+4
+00:00:28,580 --> 00:00:31,740
+Minha formação é em tecnologia, startups e desenvolvimento
+
+5
+00:00:31,849 --> 00:00:35,840
+A minha função no Ethereum é reunir empresários, desenvolvedores
+
+6
+00:00:35,840 --> 00:00:40,560
+e investidores para construir aplicações descentralizadas em nossa plataforma.
+
+7
+00:00:42,240 --> 00:00:45,980
+O que é Ethereum?
+
+8
+00:00:47,359 --> 00:00:50,910
+Ethereum é uma plataforma aberta (open source) para 
+construir e distribuir
+
+9
+00:00:50,910 --> 00:00:53,070
+aplicações descentralizadas da próxima geração. 
+
+10
+00:00:53,180 --> 00:00:57,920
+Ou seja, aplicações que não necessitam de intermediários e através das quais os usuários
+
+11
+00:00:57,980 --> 00:01:01,220
+interagem com os sistemas sociais, sistemas financeiros,
+
+12
+00:01:01,300 --> 00:01:02,700
+com interfaces de jogos,
+
+13
+00:01:03,002 --> 00:01:05,862
+tudo num formato descentralizado (peer to peer).
+
+14
+00:01:06,300 --> 00:01:09,640
+Como a rede do Ethereum vai ser distribuída em centenas de milhares de 
+
+15
+00:01:09,720 --> 00:01:11,000
+computadores por todo o mundo, 
+
+16
+00:01:11,149 --> 00:01:14,400
+tudo isso acontecerá numa base livre de qualquer censura.
+
+17
+00:01:14,400 --> 00:01:17,045
+Tornamos mais fácil para os desenvolvedores construir suas aplicações, 
+
+18
+00:01:17,075 --> 00:01:20,580
+aproveitando as ferramentas com as quais eles já estão familiarizados.
+
+19
+00:01:20,580 --> 00:01:23,020
+Como o HTML e Javascript para construir as interfaces
+
+20
+00:01:23,064 --> 00:01:27,004
+ou Go, Python ou Lisp para construir a lógica do negócio.
+
+21
+00:01:27,042 --> 00:01:30,095
+Em resumo, a nossa missão é para abrir as comportas 
+
+22
+00:01:30,095 --> 00:01:32,875
+do desenvolvimento das aplicações descentralizadas.
+
+23
+00:01:33,003 --> 00:01:35,005
+Nosso processo de desenvolvimento já está bem avançado
+
+24
+00:01:35,055 --> 00:01:38,735
+e estamos planejando lançar uma versão funcional da nossa rede
+
+25
+00:01:38,840 --> 00:01:40,260
+no final deste ano.
+
+26
+00:01:42,140 --> 00:01:44,980
+Por que Ethereum?
+
+27
+00:01:46,077 --> 00:01:49,877
+A maioria dos serviços que se usa hoje tem um
+fator em comum: são centralizados.
+
+28
+00:01:50,008 --> 00:01:54,588
+Assim, por exemplo, você confia que seu banco pode manter seu dinheiro seguro, 
+
+29
+00:01:54,700 --> 00:01:58,900
+ser auditado independentemente e ser honesto.
+O mesmo é verdade com o Facebook, 
+
+30
+00:01:59,001 --> 00:02:00,590
+quando você carrega uma foto dos seus filhos, 
+
+31
+00:02:00,689 --> 00:02:05,400
+quando você envia um documento para o Dropbox,
+ou mesmo quando você vai para a sua consulta médica
+
+32
+00:02:05,400 --> 00:02:07,824
+e cadastra na rede de saúde suas informações médicas pessoais.
+
+33
+00:02:08,008 --> 00:02:11,868
+Se você trabalha como desenvolvedor, você precisa submeter sua aplicação a uma App Store
+
+34
+00:02:12,013 --> 00:02:15,372
+e se arrisca a tê-la removida pelas razões mais triviais e diversas.
+
+35
+00:02:15,372 --> 00:02:18,928
+A história tem provado continuamente que este modelo é falho,
+
+36
+00:02:19,019 --> 00:02:22,033
+mas necessário para garantir as operações "de confiança" 
+
+37
+00:02:22,420 --> 00:02:26,880
+Até agora, esse modelo tem se mostrado complexo demais e não rentável.
+
+38
+00:02:27,220 --> 00:02:30,440
+Lembrando que tudo o que é centralizado torna-se mais fácil de atacar,
+
+39
+00:02:30,519 --> 00:02:32,860
+pois oferece um ponto único como alvo,
+
+40
+00:02:33,080 --> 00:02:34,700
+como o firewall de um website.
+
+41
+00:02:35,000 --> 00:02:41,420
+As aplicações construídas no Ethereum não exigem que seus usuários confiem nos desenvolvedores com relação a informações pessoais ou fundos.
+
+42
+00:02:41,459 --> 00:02:44,670
+No Ethereum, suas informações pessoais permanecem suas,
+
+43
+00:02:44,670 --> 00:02:47,839
+seus fundos permanecem seus, e seu conteúdo permanece seu conteúdo.
+
+44
+00:02:49,960 --> 00:02:53,000
+Casos de Uso
+
+45
+00:02:54,049 --> 00:02:57,086
+Ethereum é uma plataforma de programação de aplicativos. 
+
+46
+00:02:57,086 --> 00:03:01,826
+O que pode ser construído no Ethereum é limitado apenas pela criatividade dos desenvolvedores.
+
+47
+00:03:02,007 --> 00:03:04,007
+Dito isto sobre a tecnologia, há 
+
+48
+00:03:04,007 --> 00:03:06,807
+três tipos de aplicativos que vêm à mente imediatamente.
+
+49
+00:03:07,005 --> 00:03:09,445
+O primeiro são as moedas individuais.
+
+50
+00:03:09,760 --> 00:03:11,600
+Imagine se você é um artista 
+
+51
+00:03:11,720 --> 00:03:14,820
+e quer se sustentar através da emissão de uma nova moeda.
+
+52
+00:03:15,006 --> 00:03:18,866
+Se você quiser apoiar este artista, você iria comprar essa moeda, tecnicamente 
+
+53
+00:03:19,033 --> 00:03:23,078
+investindo em seu próprio IPO pessoal. E, como as milhões de moedas que são 
+
+54
+00:03:23,280 --> 00:03:24,940
+negociadas em bolsas de valores descentralizadas, 
+
+55
+00:03:25,061 --> 00:03:28,201
+esta própria moeda torna-se uma representação dos seus valores 
+
+56
+00:03:28,360 --> 00:03:30,520
+e não apenas um meio de troca.
+
+57
+00:03:31,002 --> 00:03:34,102
+Ethereum torna simples emitir seus próprios tokens de valor
+
+58
+00:03:34,180 --> 00:03:36,880
+para recompensar seus usuários por determinadas ações que eles tomam,
+
+59
+00:03:37,034 --> 00:03:41,045
+mesmo fora da rede, como um check-in no Foursquare, por exemplo, ou 
+
+60
+00:03:41,045 --> 00:03:43,525
+participar de um projeto colaborativo de computação.
+
+61
+00:03:44,002 --> 00:03:47,842
+Imagine como o relacionamento entre os consumidores e os varejistas mudaria 
+
+62
+00:03:48,013 --> 00:03:52,071
+se em vez de emitir pontos de fidelidade, varejistas emitissem cupons criptográficos de valor 
+
+63
+00:03:52,071 --> 00:03:56,076
+que poderiam ser trocados por bens e serviços em mercados descentralizados
+
+64
+00:03:56,076 --> 00:03:59,856
+ou mesmo outros pontos de valor, como milhas aéreas.
+
+65
+00:04:00,003 --> 00:04:03,007
+Outra aplicação interessante deste conceito 
+
+66
+00:04:03,079 --> 00:04:07,959
+é que, hoje, no Facebook, quando você ajuda a identificar os artistas que vão se tornar 
+
+67
+00:04:08,045 --> 00:04:10,067
+bem sucedidos, clicando no botão "curtir", 
+
+68
+00:04:10,067 --> 00:04:14,887
+esse valor vai para os anunciantes do Facebook, não para os produtores do conteúdo, nem para você.
+
+69
+00:04:15,006 --> 00:04:18,886
+No Ethereum por outro lado, tanto o criador do conteúdo 
+
+70
+00:04:19,003 --> 00:04:22,803
+quanto os early adopters seriam recompensados por apontarem este artista. 
+
+71
+00:04:23,002 --> 00:04:26,004
+Este é um novo modelo de renda que nunca existiu antes 
+
+72
+00:04:26,004 --> 00:04:30,824
+e que pode revolucionar completamente a nossa forma de pensar sobre os rendimentos na internet de hoje.
+
+73
+00:04:31,006 --> 00:04:34,886
+O segundo tipo de aplicação que eu antecipo que será muito bem sucedido
+
+74
+00:04:35,013 --> 00:04:38,044
+no Ethereum são os aplicativos que atualmente necessitam de um intermediário. 
+
+75
+00:04:38,044 --> 00:04:41,864
+Os usuários estão cansados ​​de pagar taxas exorbitantes para empresas como 
+
+76
+00:04:42,003 --> 00:04:44,003
+Ebay, Kickstarter ou Airbnb.
+
+77
+00:04:44,006 --> 00:04:50,007
+Numa rede descentralizada, a existência de um intermediário se limita a trazer valor agregado real, 
+
+78
+00:04:50,007 --> 00:04:54,887
+como o seguro, por exemplo, ao invés de apenas colocar duas pessoas em contato.
+
+79
+00:04:54,980 --> 00:04:58,820
+Num Kickstarter descentralizado, em vez de receber 
+
+80
+00:04:59,008 --> 00:05:02,080
+um produto pré-encomendado que rapidamente se torna obsoleto ou apenas uma camiseta,
+
+81
+00:05:02,080 --> 00:05:07,888
+os usuários poderão ser recompensados ​​com cupons de valor das startups em que investem.
+
+82
+00:05:08,004 --> 00:05:10,884
+O terceiro tipo de aplicações se refere às financeiras.
+
+83
+00:05:11,005 --> 00:05:12,925
+Há este conceito de aldeia, 
+
+84
+00:05:13,005 --> 00:05:16,044
+onde, se você fosse pegar um empréstimo e ficar inadimplente, você seria banido.
+
+85
+00:05:16,044 --> 00:05:19,052
+Em resumo, você está apoiando empréstimos com a sua reputação 
+
+86
+00:05:19,052 --> 00:05:20,852
+ao invés de usar, para isso, bens físicos.
+
+87
+00:05:21,820 --> 00:05:23,825
+Este é um conceito bem-sucedido no mundo em desenvolvimento, 
+
+88
+00:05:24,002 --> 00:05:27,002
+onde as empresas de micro-finanças sofreram com taxas de inadimplência muito baixas, 
+
+89
+00:05:27,006 --> 00:05:31,846
+mas isso não é novidade e nunca se escalou além de um grupo pequeno de indivíduos.
+
+90
+00:05:32,001 --> 00:05:35,007
+Com Ethereum, você pode escalar a reputação para milhões de pessoas, 
+
+91
+00:05:35,007 --> 00:05:39,787
+por isso prevemos grandes mudanças não apenas no mundo em desenvolvimento, mas também muito mais perto de casa. 
+
+92
+00:05:40,004 --> 00:05:42,844
+E isso não seria limitado apenas ao crédito porque, no Ethereum, 
+
+93
+00:05:43,003 --> 00:05:48,783
+qualquer usuário pode emitir e negociar ações, títulos, derivativos e até contratos de diferenças.
+
+94
+00:05:49,002 --> 00:05:52,942
+Pode ser que as aplicações Ethereum que terão o maior impacto no mundo 
+
+95
+00:05:53,001 --> 00:05:56,441
+ainda não tenham sido inventadas, da mesma forma que levou quatro anos para as redes sociais 
+
+96
+00:05:56,520 --> 00:05:57,740
+aparecerem na web 
+
+97
+00:05:57,820 --> 00:06:01,871
+e mais dois anos para vê-las se diversificar e inventar novas aplicações
+
+98
+00:06:02,029 --> 00:06:03,469
+como micro-blogging.
+
+99
+00:06:05,360 --> 00:06:08,380
+Como isso funciona?
+
+100
+00:06:10,000 --> 00:06:13,000
+No núcleo do Ethereum, você vai encontrar a tecnologia blockchain. 
+
+101
+00:06:13,007 --> 00:06:17,947
+Se você olhar para aplicações centralizadas, você verá que elas alcançam confiança por serem fechadas,
+
+102
+00:06:18,003 --> 00:06:22,703
+firewalls e equipes de segurança que você tem que confiar, e confia, que farão bem o seu trabalho.
+
+103
+00:06:23,008 --> 00:06:25,009
+A tecnologia blockchain por outro lado 
+
+104
+00:06:25,009 --> 00:06:30,329
+utiliza um modelo diferente, em que a confiança pode ser alcançada numa rede aberta.
+
+105
+00:06:31,013 --> 00:06:34,813
+Bitcoin é uma moeda que foi a primeira e atualmente é a mais conhecida 
+
+106
+00:06:34,900 --> 00:06:36,780
+aplicação da tecnologia blockchain. 
+
+107
+00:06:37,004 --> 00:06:40,804
+Ethereum torna esta tecnologia aplicável a praticamente qualquer outra coisa.
+
+108
+00:06:41,005 --> 00:06:43,925
+Qualquer coisa que pode ser representada matematicamente
+
+109
+00:06:44,001 --> 00:06:46,821
+pode ser modelada, garantida e negociada
+
+110
+00:06:47,008 --> 00:06:51,868
+e, assim como no caso do bitcoin, onde você não precisa confiar num banco ou numa autoridade central
+
+111
+00:06:52,000 --> 00:06:54,001
+para manter seus fundos seguros, 
+
+112
+00:06:54,002 --> 00:06:58,007
+no Ethereum, suas informações pessoais, sua identidade e seus fundos 
+
+113
+00:06:58,076 --> 00:07:00,716
+ficam sob seu controle o tempo todo.
+
+114
+00:07:01,005 --> 00:07:05,685
+No Ethereum, os desenvolvedores escrevem lógica de negócio no que chamamos de contratos. 
+
+115
+00:07:06,003 --> 00:07:08,843
+Os contratos são programas que seguem uma série de passos 
+
+116
+00:07:09,003 --> 00:07:12,103
+cada vez que recebem uma mensagem chamada "transação".
+
+117
+00:07:13,000 --> 00:07:16,003
+Os contratos podem armazenar dados, enviar e receber transações 
+
+118
+00:07:16,003 --> 00:07:18,007
+e até mesmo interagir com outros contratos, 
+
+119
+00:07:18,760 --> 00:07:20,760
+independentemente de qualquer controle.
+
+120
+00:07:21,000 --> 00:07:23,006
+Eles são mantidos pela rede e eles são escritos numa 
+
+121
+00:07:23,064 --> 00:07:25,884
+linguagem de programação que será instantaneamente familiar
+
+122
+00:07:26,014 --> 00:07:27,030
+para qualquer desenvolvedor.
+
+123
+00:07:27,030 --> 00:07:30,866
+Isso porque as interfaces para os contratos que vivem na rede Ethereum 
+
+124
+00:07:31,039 --> 00:07:35,259
+também são descentralizadas e, como um desenvolvedor de aplicativos, você vai precisar de infra-estrutura zero 
+
+125
+00:07:35,360 --> 00:07:36,360
+a implementar 
+
+126
+00:07:36,400 --> 00:07:37,620
+e distribuir suas aplicações.
+
+127
+00:07:38,005 --> 00:07:42,845
+Na verdade, porque um framework com base em incentivos faz parte integral do protocolo, 
+
+128
+00:07:43,000 --> 00:07:47,000
+suas aplicações também serão impenetráveis a ataques de negação do serviço.
+
+129
+00:07:48,320 --> 00:07:50,920
+O Futuro
+
+130
+00:07:53,001 --> 00:07:58,681
+Uma aplicação futura do Ethereum são os DAOs ou organizações autônomas descentralizadas. 
+
+131
+00:07:59,002 --> 00:08:01,502
+Uma DAO é composta de um ou mais contratos e poderia ser 
+
+132
+00:08:01,720 --> 00:08:04,480
+financiada por um grupo de indivíduos com ideias similares.
+
+133
+00:08:05,001 --> 00:08:07,941
+Uma DAO opera completamente transparente 
+
+134
+00:08:08,069 --> 00:08:11,589
+e completamente independente de qualquer intervenção humana,
+
+135
+00:08:11,719 --> 00:08:14,200
+incluindo seus criadores originais.
+
+136
+00:08:14,940 --> 00:08:18,943
+Uma DAO vai ficar na rede por tanto tempo quanto ela cobrir 
+
+137
+00:08:19,129 --> 00:08:23,509
+seus custos de sobrevivência e fornecer um serviço útil à sua base de clientes.
+
+138
+00:08:24,003 --> 00:08:27,883
+Você pode pensar no Ethereum como uma rede distribuída programável.
+
+139
+00:08:28,540 --> 00:08:31,040
+O fato de que o Ethereum é, por sua própria concepção,
+
+140
+00:08:31,139 --> 00:08:34,880
+resistente à fraude e adulteração, significa que ele oferece
+
+141
+00:08:34,880 --> 00:08:39,708
+uma nova gama de soluções para os problemas diários que são atualmente resolvidos com grandes despesas.
+
+142
+00:08:40,006 --> 00:08:42,886
+Máquinas de votação, registro de nome de domínio, 
+
+143
+00:08:43,025 --> 00:08:46,091
+registro de documentos legais, software médico, 
+
+144
+00:08:46,091 --> 00:08:50,093
+transferência de bens, de serviços, de "smart property" entre indivíduos, 
+
+145
+00:08:50,093 --> 00:08:55,273
+contratos entre indivíduos, sistemas de reputação e derivativos financeiros. 
+
+146
+00:08:55,449 --> 00:08:59,380
+Todos esses aplicativos podem ser criados numa rede onde os usuários mantêm o controle de seus fundos 
+
+147
+00:08:59,380 --> 00:09:01,878
+e de seus dados pessoais o tempo todo.
+
+148
+00:09:02,006 --> 00:09:06,926
+Em última análise, Ethereum não está aqui para prejudicar ou para fortalecer qualquer sistema existente, 
+
+149
+00:09:07,006 --> 00:09:11,046
+é uma terceira opção, além da voz contra saída. 
+
+150
+00:09:11,209 --> 00:09:14,630
+Há, naturalmente, desafios à frente de um projeto tão ambicioso.
+
+151
+00:09:14,630 --> 00:09:16,967
+É por isso que montamos uma equipe de especialistas de renome mundial 
+
+152
+00:09:17,068 --> 00:09:20,074
+para nos ajudar a construir Ethereum, incluindo Neil Koblitz, 
+
+153
+00:09:20,074 --> 00:09:23,874
+co-criador da criptografia da curva elíptica usada no bitcoin,
+
+154
+00:09:24,089 --> 00:09:28,200
+assim como Ralph Merkle, um dos inventores da criptografia da chave pública.
+
+155
+00:09:29,700 --> 00:09:32,840
+Próximos Passos
+
+156
+00:09:34,004 --> 00:09:37,864
+Estamos atualmente em fase pré-alpha, mas desenvolvedores já podem experimentar 
+
+157
+00:09:38,007 --> 00:09:42,012
+nosso software de prova de conceito que está se desenvolvendo rapidamente para a primeira versão,
+
+158
+00:09:42,057 --> 00:09:43,837
+esperado para o último trimestre deste ano.
+
+159
+00:09:44,005 --> 00:09:48,007
+Nosso lançamento mais recente inclui interfaces fáceis de construir para aplicativos
+
+160
+00:09:48,008 --> 00:09:51,828
+os quais serão descentralizados numa rede à prova de falsificação.
+
+161
+00:09:52,006 --> 00:09:55,006
+Um bom lugar para começar, se você quiser aprender mais sobre Ethereum 
+
+162
+00:09:55,006 --> 00:09:58,906
+é consultar os whitepapers que descrevem nosso protocolo em detalhes 
+
+163
+00:09:59,039 --> 00:10:02,839
+e estão disponíveis em nosso site: ethereum.org.
+
+164
+00:10:03,001 --> 00:10:05,009
+Também estamos no reddit, Twitter, IRC, 
+
+165
+00:10:05,009 --> 00:10:11,049
+Facebook, Google+, e todos os links foram postados na descrição deste vídeo.
+

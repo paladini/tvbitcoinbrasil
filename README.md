@@ -8,7 +8,6 @@ Os projetos *TV Bitcoin Brasil* e *Bitcoin Brasil Desenvolvedores* não estão o
 ## Organização ##
 Esse repositório está organizado nas seguintes pastas (descrição do lado direito):
 
-- **Bitcoin and The History of Money:** um vídeo de mesmo título disponível no Youtube.
-- **Bitcoin explained and made simple:** um vídeo de mesmo título disponível no Youtube.
+- **Geral:** diversas legendas de vídeos criados por diferentes canais e que não necessitam uma pasta exclusiva para cada uma.
 - **BitcoinFilm.org:** uma pasta contendo traduções dos mini-documentários do site www.bitcoinfilm.org.
 - **BitcoinConcepts:** uma pasta contendo traduções de vídeos do canal do Youtube chamado "Bitcoin Concepts".
