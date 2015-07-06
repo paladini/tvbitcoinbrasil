@@ -1,0 +1,168 @@
+1
+00:00:01,100 --> 00:00:04,006
+Bitcoin...explicado com simplicidade!
+
+2
+00:00:04,026 --> 00:00:10,526
+Este é Matthew. Ele trabalha com pagamentos online e sua avó, Margaret, começou a utilizar o banco online!
+
+3
+00:00:10,526 --> 00:00:13,346
+Ela ouviu falar de Bitcoin, mas ainda não sabe o que é.
+
+4
+00:00:13,460 --> 00:00:16,220
+Matthew pode explicar!
+
+5
+00:00:16,480 --> 00:00:18,440
+Todo mundo conhece o dinheiro:
+
+6
+00:00:18,440 --> 00:00:22,560
+nós usamos dinheiro or cartões para comprar coisas, seja em lojas ou online.
+
+7
+00:00:22,760 --> 00:00:26,820
+O Bitcoin funciona de uma forma similar, mas é uma moeda totalmente digital:
+
+8
+00:00:26,820 --> 00:00:29,200
+é criado e armazenado eletronicamente.
+
+9
+00:00:31,160 --> 00:00:33,220
+O banco controla o dinheiro de Margaret,
+
+10
+00:00:33,220 --> 00:00:37,080
+enquanto que as próprias pessoas controlam os seus pagamentos em Bitcoin.
+
+11
+00:00:37,080 --> 00:00:39,300
+O dinheiro dela pode ser afetado por inflação
+
+12
+00:00:39,300 --> 00:00:41,040
+mas o Bitcoin não pode.
+
+13
+00:00:41,040 --> 00:00:45,000
+Controlando a produção de bitcoins é possível manter o valor dele em um nível muito sólido;
+
+14
+00:00:45,940 --> 00:00:48,960
+isso o torna popular em países com problemas econômicos
+
+15
+00:00:49,240 --> 00:00:53,100
+pois os usuáros podem contornar a inflação e outros problemas.
+
+16
+00:00:53,240 --> 00:01:00,540
+Entretanto, mesmo pequenos eventos como uma má notícia da mídia pode afetar drasticamente o valor do Bitcoin.
+
+17
+00:01:01,520 --> 00:01:03,920
+Então onde Margaret pode usar seus bitcoins?
+
+18
+00:01:04,100 --> 00:01:08,140
+Algumas empresas e varejistas online já aceitam ele como uma forma de pagamento.
+
+19
+00:01:08,220 --> 00:01:12,140
+Entretanto, o Bitcoin ainda continua relativamente desconhecido por empresários
+
+20
+00:01:12,140 --> 00:01:14,220
+por ser uma rede em desenvolvimento.
+
+21
+00:01:14,900 --> 00:01:17,940
+A natureza simples e pseudônima do Bitcoin
+
+22
+00:01:17,940 --> 00:01:21,340
+também tornou ele atrativo para contrabandistas no mercado negro.
+
+23
+00:01:22,360 --> 00:01:27,320
+Da perspectiva do Matthew, Bitcoin é um app em um computador ou celular
+
+24
+00:01:27,320 --> 00:01:31,200
+que funciona como uma carteira online. É mais fácil de fazer pagamentos com Bitcoin
+
+25
+00:01:31,200 --> 00:01:33,680
+do que com cartões de crédito e débito convencionais;
+
+26
+00:01:33,680 --> 00:01:38,180
+apenas insira o endereço do destinatário, o valor a ser pago e pressione enviar.
+
+27
+00:01:40,140 --> 00:01:42,860
+Margaret pode enviar e receber dinheiro instantaneamente
+
+28
+00:01:42,860 --> 00:01:45,400
+em qualquer lugar do mundo e a qualquer momento.
+
+29
+00:01:45,500 --> 00:01:49,507
+Diferentemente dos cartões de crédito, há taxas muito pequenas (ou inexistentes)
+
+30
+00:01:49,560 --> 00:01:54,500
+porque não existe um banco como intermediário e não há dados pessoais ou sensíveis armazenados.
+
+31
+00:01:56,520 --> 00:01:59,540
+Cada usuário tem seu próprio "endereço"
+
+32
+00:01:59,540 --> 00:02:01,320
+onde é possível enviar e receber bitcoins.
+
+33
+00:02:01,320 --> 00:02:09,100
+Uma coleção ou "bloco" dessas transações são adicionados ao "block chain", o equivalente do Bitcoin ao livro-razão ou registro dos bancos.
+
+34
+00:02:10,320 --> 00:02:14,900
+Usuários que mantêm essa forma de contabilidade são recompensados como novos bitcoins
+
+35
+00:02:15,060 --> 00:02:16,680
+isso é conhecido como "mineração".
+
+36
+00:02:16,680 --> 00:02:19,120
+Existe um limite fixo de bitcoins,
+
+37
+00:02:19,120 --> 00:02:24,340
+mas com o passar do tempo os bitcoins podem ser divididos para manter um valor consistente.
+
+38
+00:02:25,720 --> 00:02:28,580
+Agora que Matthew explicou sobre o Bitcoin
+
+39
+00:02:28,700 --> 00:02:31,705
+Margaret deixou de achar que pagamentos online
+
+40
+00:02:31,705 --> 00:02:33,505
+são tão complicados.
+
+41
+00:02:33,820 --> 00:02:40,000
+O Bitcoin se mostra como uma alternativa real para a moeda universal do futuro.
+
+42
+00:02:40,000 --> 00:02:45,280
+Legendado e ressincronizado por Fernando Paladini.
+
